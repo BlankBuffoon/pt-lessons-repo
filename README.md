@@ -3,6 +3,9 @@
 
 ## Features
 
+-
+-
+-
 - Activating/Deactivating timer sections
 - Sections Setting and Textfields settings
 - Custom timer end date
