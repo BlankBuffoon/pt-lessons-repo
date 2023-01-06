@@ -1,8 +1,13 @@
+Test
+
 # WP PRO Countdown Timer
  Plugin that allows you to simply and easily integrate a timer into your WordPress site.
 
 ## Features
 
+-
+-
+-
 - Activating/Deactivating timer sections
 - Sections Setting and Textfields settings
 - Custom timer end date
@@ -52,5 +57,9 @@ GPLv2 or later
 [Check current roadmap here](ROADMAP.md)
 
 ## Changelog
+
+#### - 1.0.1 Bugfix -
+Fixed a critical bug related to faulty validation of the edited post type due to which metaboxes values were not saved
+
 #### - 1.0 Release -
 Release
